@@ -1,0 +1,73 @@
+.new_member_suggestion_container {
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+}
+
+.helper_n2 {
+  display: flex;
+}
+
+.member_profile_picture_container {
+  margin-right: 0.75rem;
+}
+
+.member_profile_info_container {
+  display: flex;
+  align-items: center;
+  margin-top: -1rem;
+  width: 100%;
+}
+
+.member_profile_name {
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.verified_badge_icon {
+  margin-left: 0.2rem;
+}
+
+.member_profile_picture {
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+}
+
+.member_profile_username {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #71767b;
+}
+
+.new_member_add_btn {
+  margin-left: auto;
+  padding: 0.5rem 1rem;
+  border-radius: 15px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.description_helper {
+  margin-top: -1rem;
+}
+
+.member_description {
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-left: 3.8rem;
+  top: 0;
+  flex: 0 0 100%;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 26rem;
+}
+
+.new_member_suggestion_container:hover {
+  background-color: #080808;
+}

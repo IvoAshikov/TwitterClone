@@ -1,0 +1,68 @@
+.single_list_container {
+  display: flex;
+  padding: 0.75rem 1rem 0.75rem 1rem;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon_box_container {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1da1f2;
+  border-radius: 10px;
+  margin-right: 1rem;
+}
+
+.white_list_icon {
+  font-size: 1.6rem;
+}
+
+.text_info_container_list {
+  width: 90%;
+}
+
+.locker_icon_list {
+  font-size: 1rem;
+  margin-left: 0.2rem;
+}
+
+.topic_list_user {
+  display: flex;
+}
+
+.lists_default_pfp {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
+
+.topic_list_name {
+  font-size: 0.8rem;
+  margin-left: 0.2rem;
+}
+
+.topic_list_username {
+  font-size: 0.8rem;
+  margin-left: 0.2rem;
+  font-weight: 400;
+  color: #71767b;
+}
+
+.pin_list_container {
+  margin-left: auto;
+  margin-top: -1rem;
+  height: 34px;
+  width: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1d9bf0;
+}
+
+.pin_list_container:hover {
+  background-color: #0a1720;
+}

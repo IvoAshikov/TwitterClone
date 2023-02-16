@@ -1,0 +1,220 @@
+.bookmarks_container {
+  width: 44%;
+  margin-left: 19.375rem;
+  border-left: 1px solid #3b3b3d;
+}
+
+.sticky_top_bar {
+  padding: 0.4rem 1rem;
+  line-height: 1.3rem;
+  cursor: pointer;
+  position: fixed;
+  width: 44%;
+  background-color: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(12px);
+}
+
+.sticky_top_text {
+  font-size: 1.2rem;
+  color: #e1e3e4;
+}
+
+.profile_tag {
+  font-size: 0.8rem;
+  color: #71767b;
+}
+
+.bookmarks_main_content_container {
+  margin-top: 6rem;
+  max-width: 600px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bookmarks_main_content_helper {
+  align-self: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: calc(400px);
+  width: 100%;
+}
+
+.image_container {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.cage_img {
+  width: 21rem;
+  height: 10.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.text_header {
+  font-size: 2rem;
+  letter-spacing: -1px;
+  margin-bottom: 0.5rem;
+  word-wrap: break-word;
+}
+
+.text_info {
+  color: #71767b;
+  font-weight: 400;
+  letter-spacing: -1px;
+  word-wrap: break-word;
+}
+
+.bottom_bar_mobile_container {
+  display: none;
+}
+
+.bottom_bar_helper {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile_home_icon_container,
+.mobile_search_icon_container,
+.mobile_notifications_icon_container,
+.mobile_messages_icon_container {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* HOVER */
+.mobile_home_icon_container:hover,
+.mobile_search_icon_container:hover,
+.mobile_notifications_icon_container:hover,
+.mobile_messages_icon_container:hover {
+  background-color: #16181c;
+}
+/* END OF HOVER */
+@media (min-width: 801px) and (max-width: 999px) and (max-height: 499px) {
+  .bookmarks_container {
+    width: 100%;
+    margin-left: 0rem;
+    border-left: none;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+}
+
+/* MEDIAS  */
+
+@media (min-width: 1000px) and (max-width: 1403px) and (max-height: 499px) {
+  .bookmarks_container {
+    width: 100%;
+    margin-left: 0rem;
+    border-left: none;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    z-index: 9999;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+}
+
+@media (min-width: 500px) and (min-height: 500px) and (max-width: 999px) {
+  .bookmarks_container {
+    width: 85%;
+    margin-left: 15%;
+  }
+  .bottom_bar_mobile_container {
+    display: none;
+  }
+}
+
+@media (min-width: 1000px) and (min-height: 500px) and (max-width: 1281px) {
+  .bookmarks_container {
+    margin-left: 15%;
+    width: 50%;
+  }
+}
+
+@media (max-width: 500px) and (min-height: 500px) {
+  .bookmarks_container {
+    width: 100%;
+    margin-left: 0rem;
+    border-left: none;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+}

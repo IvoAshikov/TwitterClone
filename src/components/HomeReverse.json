@@ -1,0 +1,884 @@
+{
+  "data": [
+    {
+      "author_id": "3380542258",
+      "edit_history_tweet_ids": ["1583368451770679296"],
+      "id": "1583368451770679296",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583256390633918465"
+        }
+      ],
+      "text": "RT @BLASTPremier: It turned out OK after all 🔥\n\n#BLASTPremier @BetwayCSGO https://t.co/dGGlQmtZSo",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583367960542195713"],
+      "id": "1583367960542195713",
+      "text": "https://t.co/9yLHj7pjUV",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 4,
+        "like_count": 214,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1962532496",
+      "edit_history_tweet_ids": ["1583367947866689536"],
+      "id": "1583367947866689536",
+      "text": "Live streaming the MASSIVE HUGE @alienwareoz Fortnite Tournament with some buddies!\n\nCOME CHECK IT OUT GUYS! \n\nhttps://t.co/vG5bYsz8lt\n\nhttps://t.co/vG5bYsz8lt\n\nhttps://t.co/vG5bYsz8lt\n\n #defyboundaries",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 16,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583367092421943296"],
+      "id": "1583367092421943296",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1583366787344740352"
+        }
+      ],
+      "text": "listening to midnights rn and it's very good",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 7,
+        "like_count": 55,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "18553965",
+      "edit_history_tweet_ids": ["1583367057101373440"],
+      "id": "1583367057101373440",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1581291302750195712"
+        }
+      ],
+      "text": "👀 see you soon #TI11 https://t.co/WAmjwaxy8D",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583366787344740352"],
+      "id": "1583366787344740352",
+      "text": "https://t.co/I1LxEHCPnM",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 7,
+        "like_count": 322,
+        "quote_count": 2
+      }
+    },
+    {
+      "author_id": "19397656",
+      "edit_history_tweet_ids": ["1583364637235777536"],
+      "id": "1583364637235777536",
+      "text": "almost weekend, this lil guy isn't helping https://t.co/deUaYEIZUT",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "867702739",
+      "edit_history_tweet_ids": ["1583362374949433344"],
+      "id": "1583362374949433344",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1583143407341670400"
+        }
+      ],
+      "text": "#FM23 launched last night and its fair to say, its been a great reaction. First impressions? Who has called in sick today to play it? We won't tell. https://t.co/zI0Hx3yNWd",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583358524586749953"],
+      "id": "1583358524586749953",
+      "text": "https://t.co/OtiXj0qAxf",
+      "public_metrics": {
+        "retweet_count": 28,
+        "reply_count": 9,
+        "like_count": 667,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "838393386952441860",
+      "edit_history_tweet_ids": ["1583358493024665605"],
+      "id": "1583358493024665605",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1581359900172877830"
+        }
+      ],
+      "text": "@Kazu_Store @galgos112 Picking winner tomorrow of this wonderful knife 🤠",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 12,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "2397115412",
+      "edit_history_tweet_ids": ["1583358144008269825"],
+      "id": "1583358144008269825",
+      "text": "本日FORMULAソフトレザーモデルDXZ V2、ストリーミング映えする淡い\nオフカラーが特徴のPASTELシリーズが再入荷しました。https://t.co/37eafBj8DY #FORMULA_DXZV2 #DXRacer https://t.co/zwQFeS3LF3",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 15,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "759683995563094017",
+      "edit_history_tweet_ids": ["1583352395265810432"],
+      "id": "1583352395265810432",
+      "text": "We present to you Q&amp;A about the development of #EscapefromTarkov with Nikita for HeyBox, the transcript of it can be found below:\nhttps://t.co/xKslWJekKV",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 10,
+        "like_count": 116,
+        "quote_count": 4
+      }
+    },
+    {
+      "author_id": "2478719282",
+      "edit_history_tweet_ids": ["1583347795859099648"],
+      "id": "1583347795859099648",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583335241787199495"
+        }
+      ],
+      "text": "RT @hyuslive: Goal weight by February is 175lbs :) if I don’t hit it ill give someone who retweet’s this tweet $1000 in crypto! But If I do…",
+      "public_metrics": {
+        "retweet_count": 270,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1317568613189062656",
+      "edit_history_tweet_ids": ["1583338789153275905"],
+      "id": "1583338789153275905",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1577373437139501102"
+        }
+      ],
+      "text": "RT @MKUltraMoney: 🌎 New MK Ultra Money Video 🐸\n\nJugs/Jokes Department gets DOXXED saying UNSPEAKABLE things while drunk.\n\nfeat. Jugs @TheTe…",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "76766018",
+      "edit_history_tweet_ids": ["1583337289966620672"],
+      "id": "1583337289966620672",
+      "text": "Peek-a-boo! 🎯💀\n\n🎥 Vego327- https://t.co/jhRqE4DoX4",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 19,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "16736535",
+      "edit_history_tweet_ids": ["1583336104534904832"],
+      "id": "1583336104534904832",
+      "text": "Exclusivity doesn't matter if Sony doesn't want Call of Duty on PlayStation in the first place, right? https://t.co/p4a84fJywB",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 2,
+        "like_count": 21,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "4131266472",
+      "edit_history_tweet_ids": ["1583322318700363776"],
+      "id": "1583322318700363776",
+      "text": "You never know who’s gonna show up at the NRG Hot Pockets Castle https://t.co/uS61a90krm",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 7,
+        "like_count": 221,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583313602744025088"],
+      "id": "1583313602744025088",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1583313105454452741"
+        }
+      ],
+      "text": "Stop posting about Baller. I'm tired of seeing it. My friends on tiktok send me baller, on Discord it's fucking Baller. I was in Studio Origami, right, and all of the channels? Were just baller. I showed my Super Scuffle art to my girlfriend and and said \"Hey babe, when the balle",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 10,
+        "like_count": 436,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583313105454452741"],
+      "id": "1583313105454452741",
+      "text": "https://t.co/p8RORiF6yK",
+      "public_metrics": {
+        "retweet_count": 144,
+        "reply_count": 21,
+        "like_count": 3310,
+        "quote_count": 9
+      }
+    },
+    {
+      "author_id": "18553965",
+      "edit_history_tweet_ids": ["1583307623423614976"],
+      "id": "1583307623423614976",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1583307304203526150"
+        }
+      ],
+      "text": "lower bracket kings\n\nno worries here🥲 #TI11 https://t.co/g8wtZMHJsD",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 21,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "16736535",
+      "edit_history_tweet_ids": ["1583302148233699329"],
+      "id": "1583302148233699329",
+      "text": "Got an RTX graphics card? Grab Nvidia's latest GeForce driver and enjoy a bit of free extra performance. https://t.co/YoIK82WGhA",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 2,
+        "like_count": 54,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "76766018",
+      "edit_history_tweet_ids": ["1583300542578581505"],
+      "id": "1583300542578581505",
+      "text": "Pokimane hit back at viewers constantly asking if she’s pregnant https://t.co/yM4XSobOAG",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 16,
+        "like_count": 55,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "18553965",
+      "edit_history_tweet_ids": ["1583299253790994434"],
+      "id": "1583299253790994434",
+      "text": "called my mom and asked her to light a candle for an @OGesports win #TI11 🕯️🏆",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 23,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "438074176",
+      "edit_history_tweet_ids": ["1583291482005348352"],
+      "id": "1583291482005348352",
+      "text": "I’m being forced to watch American football 😐",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 19,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1138993163706753029",
+      "edit_history_tweet_ids": ["1583290619329662976"],
+      "id": "1583290619329662976",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1583290616879845377"
+        }
+      ],
+      "text": "Many people lost along the way but many more are learning the ropes and have paid their tuition. Not everyone has to leave for it to bottom. Whenever that is. You just have to survive. Seasons by definition are temporary, something that won't last. The bear market too shall pass",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 26,
+        "like_count": 758,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "1138993163706753029",
+      "edit_history_tweet_ids": ["1583290616879845377"],
+      "id": "1583290616879845377",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1476959132523675649"
+        }
+      ],
+      "text": "1/2 \nThere's a lot of people finding a way to survive in crypto and it's admirable. Every person that's been here multiple cycles found a way. Close to a year ago I thought far more would be wiped out by now. Instead it's a whole bunch of people that know it's not going anywhere https://t.co/xYHjG7KpMQ",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 30,
+        "like_count": 683,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "420512951",
+      "edit_history_tweet_ids": ["1583286021491654657"],
+      "id": "1583286021491654657",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583285357122318337"
+        }
+      ],
+      "text": "RT @DisguisedToast: met the legend @tarik https://t.co/lOQ2Y4HqQU",
+      "public_metrics": {
+        "retweet_count": 282,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "2830604556",
+      "edit_history_tweet_ids": ["1583281964529786880"],
+      "id": "1583281964529786880",
+      "text": "I want to return to fortnite\n\nwhat should I try in the new season ?",
+      "public_metrics": {
+        "retweet_count": 106,
+        "reply_count": 697,
+        "like_count": 7021,
+        "quote_count": 13
+      }
+    },
+    {
+      "author_id": "921899069009690624",
+      "edit_history_tweet_ids": ["1583280531613310976"],
+      "id": "1583280531613310976",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583280453079158785"
+        }
+      ],
+      "text": "RT @dust2us: .@MIBR win @BLASTPremier battle of Brazil\n\nhttps://t.co/uonxZzwEKt",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "18553965",
+      "edit_history_tweet_ids": ["1583280369276579840"],
+      "id": "1583280369276579840",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583278165891239936"
+        }
+      ],
+      "text": "RT @OGesports: https://t.co/NUREq1o4T0",
+      "public_metrics": {
+        "retweet_count": 130,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "76766018",
+      "edit_history_tweet_ids": ["1583275628119224321"],
+      "id": "1583275628119224321",
+      "text": "Ludwig going full Fred as Velma this Halloween https://t.co/Yyr6K0ffTu",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 5,
+        "like_count": 110,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "2853641871",
+      "edit_history_tweet_ids": ["1583272921660723200"],
+      "id": "1583272921660723200",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583270548607422464"
+        }
+      ],
+      "text": "RT @CucumberColuge: Live again again again https://t.co/flrPkHJyoQ",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "18553965",
+      "edit_history_tweet_ids": ["1583269394838589440"],
+      "id": "1583269394838589440",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1583255992330252289"
+        }
+      ],
+      "text": "where i’m spectating from👁️👄👁️\n\n#TI11 https://t.co/KQ0qean4hy https://t.co/NuKToOCyou",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 76,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "700397871670108160",
+      "edit_history_tweet_ids": ["1583264555299352577"],
+      "id": "1583264555299352577",
+      "text": "With a growing number of esport events happening in the USA, its government recognized participating pro players as athletes, allowing them entrance. For quite a time, many players were forced to skip some events because of visa reasons. \n\n#thunderpick #esport #gambling #funfacts https://t.co/qrVSFH0biO",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "16736535",
+      "edit_history_tweet_ids": ["1583262287346823168"],
+      "id": "1583262287346823168",
+      "text": "\"With a new perspective, we're rebuilding the combat system and certain setpieces\", Bloober Team's Mateusz Lenart said of the Silent Hill 2 remake. https://t.co/Y8fmzYJ09S",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 43,
+        "quote_count": 3
+      }
+    },
+    {
+      "author_id": "76766018",
+      "edit_history_tweet_ids": ["1583257508898131969"],
+      "id": "1583257508898131969",
+      "text": "All that money just to sit in the worst possible position in existence https://t.co/clkRo4fLG4",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 9,
+        "like_count": 161,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "1036958647102988288",
+      "edit_history_tweet_ids": ["1583252339980349440"],
+      "id": "1583252339980349440",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583193196770709504"
+        }
+      ],
+      "text": "RT @xekVAL: LFT for the upcoming season\n- Motivated and hungry to compete and win\n- Avaible fulltime\n- Experienced Player/can help IGL\n- Fl…",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "921899069009690624",
+      "edit_history_tweet_ids": ["1583250897756622853"],
+      "id": "1583250897756622853",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583246403450466304"
+        }
+      ],
+      "text": "RT @dust2us: .@brazen disband as college comes calling\n\nhttps://t.co/UqBRo9Fhxw",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "16736535",
+      "edit_history_tweet_ids": ["1583249872144039936"],
+      "id": "1583249872144039936",
+      "text": "We asked Capcom about Resident Evil 4's QTEs, goofy one-liners, new stealth system, and more. https://t.co/f475tH7rvl",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 46,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "1486473049146904576",
+      "edit_history_tweet_ids": ["1583246991533821952"],
+      "id": "1583246991533821952",
+      "text": "https://t.co/4Ux1cTTIqt",
+      "public_metrics": {
+        "retweet_count": 4297,
+        "reply_count": 100,
+        "like_count": 83553,
+        "quote_count": 74
+      }
+    },
+    {
+      "author_id": "16736535",
+      "edit_history_tweet_ids": ["1583246827100721152"],
+      "id": "1583246827100721152",
+      "text": "No, I said it's a *bug-squashing* shooter, not a pug-squashing one! That'd be horrible. https://t.co/qg0UZWdDq8",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 2,
+        "like_count": 28,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "3064880050",
+      "edit_history_tweet_ids": ["1583246307426062336"],
+      "id": "1583246307426062336",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583244751192887297"
+        }
+      ],
+      "text": "RT @AquaIsMissing: IT'S HAPPENING! This URL just became 'Forbidden', when in the past it was 'Not Found'!!!\n\nhttps://t.co/kaNJ4LFU78 https:…",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "16736535",
+      "edit_history_tweet_ids": ["1583242123750830080"],
+      "id": "1583242123750830080",
+      "text": "Overwatch 2's first double match XP starts tomorrow. https://t.co/4m9UvYXq8J",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 4,
+        "like_count": 50,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "18553965",
+      "edit_history_tweet_ids": ["1583240642833940480"],
+      "id": "1583240642833940480",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583147940876808192"
+        }
+      ],
+      "text": "RT @esports_DiA: Since I began casting esports I've used the same peripherals that I got in uni😑. My setup was *real janky*, and today the…",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "18553965",
+      "edit_history_tweet_ids": ["1583240568506699777"],
+      "id": "1583240568506699777",
+      "text": "i want to go there https://t.co/Vk9y4mg7b9",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 115,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "76766018",
+      "edit_history_tweet_ids": ["1583240396104118272"],
+      "id": "1583240396104118272",
+      "text": "Trackmania IRL \n\nhttps://t.co/udfnpRB1bF",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 3,
+        "like_count": 143,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "838393386952441860",
+      "edit_history_tweet_ids": ["1583240161634439168"],
+      "id": "1583240161634439168",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1583239343397040129"
+        }
+      ],
+      "text": "RT @SadlyItsBradley: Valve has added the ability for Steam Deck owners to easily see what components are inside their unit without cracking…",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583240014296584192"],
+      "id": "1583240014296584192",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1583239914589544448"
+        }
+      ],
+      "text": "no misinformation for you kind stranger. bad redditor go back to your elon musk house",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 3,
+        "like_count": 924,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "1313147693628297218",
+      "edit_history_tweet_ids": ["1583239914589544448"],
+      "id": "1583239914589544448",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1583237407914491905"
+        }
+      ],
+      "text": "btw this is probably not true https://t.co/619ZiaCDw9",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 5,
+        "like_count": 1959,
+        "quote_count": 1
+      }
+    },
+    {
+      "author_id": "2853641871",
+      "edit_history_tweet_ids": ["1583238637759901696"],
+      "id": "1583238637759901696",
+      "text": "These Overwatch 2 battle pass challenges are getting a little too difficult. https://t.co/1G0YkzQOaD",
+      "public_metrics": {
+        "retweet_count": 206,
+        "reply_count": 14,
+        "like_count": 2646,
+        "quote_count": 6
+      }
+    },
+    {
+      "author_id": "16736535",
+      "edit_history_tweet_ids": ["1583238014998052864"],
+      "id": "1583238014998052864",
+      "text": "We played it: Here's our first hands-on with Resident Evil 4 Remake. https://t.co/OvRsdJCbs2",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 4,
+        "like_count": 59,
+        "quote_count": 2
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "3380542258",
+        "name": "BetwayCSGO",
+        "username": "BetwayCSGO"
+      },
+      {
+        "id": "1313147693628297218",
+        "name": "good reddit great reddit and sometimes bad reddit",
+        "username": "GoodReddit"
+      },
+      {
+        "id": "1962532496",
+        "name": "CRAYATOR",
+        "username": "crayator"
+      },
+      {
+        "id": "18553965",
+        "name": "SteelSeries @ TI11",
+        "username": "SteelSeries"
+      },
+      {
+        "id": "19397656",
+        "name": "Robin / Soio#1873",
+        "username": "soioneet"
+      },
+      {
+        "id": "867702739",
+        "name": "Fanatical",
+        "username": "Fanatical"
+      },
+      {
+        "id": "838393386952441860",
+        "name": "Nors3.eth",
+        "username": "Nors3"
+      },
+      {
+        "id": "2397115412",
+        "name": "DXRacer®︎ JP 🇯🇵💺",
+        "username": "dxracerjapan"
+      },
+      {
+        "id": "759683995563094017",
+        "name": "Escape from Tarkov",
+        "username": "tarkov"
+      },
+      {
+        "id": "2478719282",
+        "name": "WatchGamesTV",
+        "username": "WatchGamesTV"
+      },
+      {
+        "id": "1317568613189062656",
+        "name": "Women Posting Their L’s Online",
+        "username": "WomenPostingLs"
+      },
+      {
+        "id": "76766018",
+        "name": "Dexerto",
+        "username": "Dexerto"
+      },
+      {
+        "id": "16736535",
+        "name": "PC Gamer",
+        "username": "pcgamer"
+      },
+      {
+        "id": "4131266472",
+        "name": "NRG",
+        "username": "NRGgg"
+      },
+      {
+        "id": "438074176",
+        "name": "RITA",
+        "username": "gnarlyrita"
+      },
+      {
+        "id": "1138993163706753029",
+        "name": "Pentoshi 🐧♦️",
+        "username": "Pentosh1"
+      },
+      {
+        "id": "420512951",
+        "name": "tarik",
+        "username": "tarik"
+      },
+      {
+        "id": "2830604556",
+        "name": "LAZAR",
+        "username": "Lazarbeam"
+      },
+      {
+        "id": "921899069009690624",
+        "name": "Ryan Friend",
+        "username": "RyanAtDust2"
+      },
+      {
+        "id": "2853641871",
+        "name": "San Francisco Shock",
+        "username": "SFShock"
+      },
+      {
+        "id": "700397871670108160",
+        "name": "Thunderpick",
+        "username": "thunderpickco"
+      },
+      {
+        "id": "1036958647102988288",
+        "name": "Stefunny*",
+        "username": "StfN1csgo"
+      },
+      {
+        "id": "1486473049146904576",
+        "name": "internet hall of fame",
+        "username": "InternetH0F"
+      },
+      {
+        "id": "3064880050",
+        "name": "Hac1",
+        "username": "DonHaci"
+      }
+    ]
+  },
+  "meta": {
+    "next_token": "7140dibdnow9c7btw423wyqczzwoe6xth4ftgbk3ii7uc",
+    "result_count": 51,
+    "newest_id": "1583368451770679296",
+    "oldest_id": "1583238014998052864"
+  }
+}

@@ -1,0 +1,38 @@
+.notification_prof_image {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.single_notification_container {
+  display: flex;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #3b3b3d;
+  cursor: pointer;
+}
+
+.notification_person {
+  display: flex;
+  justify-content: center;
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
+  font-size: 2rem;
+  color: rgb(29, 155, 240);
+}
+
+.profile_pic_container {
+  margin-bottom: 0.4rem;
+}
+
+.notification_text {
+  font-weight: 400;
+}
+
+.bold_notification_text {
+  font-weight: 600;
+}
+
+.bold_notification_text:hover {
+  text-decoration: underline;
+}

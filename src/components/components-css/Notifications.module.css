@@ -1,0 +1,440 @@
+.notifications_container {
+  width: 44%;
+  margin-left: 19.375rem;
+  border-left: 1px solid #3b3b3d;
+}
+
+.sticky_top_part {
+  cursor: pointer;
+  border-bottom: 1px solid #3b3b3d;
+  position: fixed;
+  width: 44%;
+  background-color: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(12px);
+}
+
+.notifications_first_row {
+  display: flex;
+  align-items: center;
+  padding: 0.8rem 1rem;
+}
+
+.notifications_header {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-right: auto;
+}
+
+.gear_icon_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 34px;
+  width: 34px;
+}
+
+.gear_icon_container:hover {
+  background-color: #191919;
+}
+
+.notifications_second_row {
+  display: flex;
+}
+
+.all_part_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 3.33rem;
+  position: relative;
+}
+
+.unactive {
+  color: #71767b;
+}
+
+.all_part_container:hover {
+  background-color: #191919;
+}
+
+.mentions_part_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 3.33rem;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.mentions_part_container:hover {
+  background-color: #191919;
+}
+
+.all_text,
+.mentions_text {
+  font-weight: 400;
+}
+
+.underline {
+  display: inline-flex;
+  position: absolute;
+  align-self: center;
+  height: 4px;
+  background-color: rgb(29, 155, 240);
+  min-width: 3.5rem;
+  border-radius: 9999px;
+  bottom: 0;
+}
+
+.underline2 {
+  display: inline-flex;
+  position: absolute;
+  align-self: center;
+  height: 4px;
+  background-color: rgb(29, 155, 240);
+  min-width: 4.2rem;
+  border-radius: 9999px;
+  bottom: 0;
+}
+
+.notification_helper {
+  margin-top: 7.06rem;
+}
+
+.mobile_prof_pic_container {
+  display: none;
+}
+
+.bottom_bar_mobile_container {
+  display: none;
+}
+
+.bottom_bar_helper {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile_home_icon_container,
+.mobile_search_icon_container,
+.mobile_notifications_icon_container,
+.mobile_messages_icon_container {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mobile_home_icon_container:hover,
+.mobile_search_icon_container:hover,
+.mobile_notifications_icon_container:hover,
+.mobile_messages_icon_container:hover {
+  background-color: #16181c;
+}
+
+.tweets_container {
+  margin-bottom: 5rem;
+}
+
+.create_new_tweet_container {
+  display: none;
+}
+
+.mobile_sidebar_container {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  background-color: #000000;
+  width: 47%;
+  box-shadow: rgb(255 255 255 / 20%) 0px 0px 15px,
+    rgb(255 255 255 / 15%) 0px 0px 3px 1px;
+  z-index: 9999;
+  overflow-y: scroll;
+}
+
+.mobile_info_close_container {
+  display: flex;
+  align-items: center;
+  padding: 0rem 1rem;
+  margin: 0.7rem 0rem;
+}
+
+.close_sidebar_icon_container {
+  margin-left: auto;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close_sidebar_icon_container:hover {
+  background-color: #181819;
+}
+
+.mobile_info {
+  font-size: 1.2rem;
+}
+
+.mobile_sidebar_pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.mobile_profile_pic_add_container {
+  padding: 1rem 1rem 0rem 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.mobile_add_icon_container {
+  margin-left: auto;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid #3b3b3d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mobile_account_name:hover {
+  text-decoration: underline;
+}
+
+.mobile_account_info_container {
+  margin-top: 0.3rem;
+  padding: 0rem 1rem;
+}
+
+.mobile_account_username {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #7f7e7e;
+}
+
+.followers_container {
+  margin-top: 0.5rem;
+  padding: 0rem 1rem 1rem 1rem;
+}
+
+.following,
+.followers {
+  font-size: 0.9rem;
+}
+
+.following:hover,
+.followers:hover {
+  text-decoration: underline;
+}
+
+.followers {
+  margin-left: 1rem;
+}
+
+.blacked_out {
+  color: #7f7e7e;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+.mobile_single_option_container {
+  padding: 1rem;
+}
+
+.mobile_option_text {
+  margin-left: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.mobile_single_option_container:hover {
+  background-color: #16181c;
+}
+
+.mobile_option_container {
+  border-bottom: 1px solid #3b3b3d;
+}
+
+.open_sidebar {
+  transform: translateX(0%);
+  transition: transform 0.5s ease;
+}
+
+.close_sidebar {
+  transform: translateX(-100%);
+  transition: transform 0.5s ease;
+}
+
+.mobile_prof_pic_container {
+  display: none;
+}
+
+@media (min-width: 801px) and (max-width: 999px) and (max-height: 499px) {
+  .notifications_container {
+    width: 100%;
+    margin-left: 0rem;
+  }
+  .sticky_top_part {
+    width: 100%;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    z-index: 9999;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_prof_pic_container {
+    display: flex;
+    margin-right: 1.5rem;
+  }
+  .prof_pic_home {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+}
+
+@media (min-width: 1000px) and (max-width: 1403px) and (max-height: 499px) {
+  .notifications_container {
+    width: 70%;
+    margin-left: 0rem;
+  }
+  .sticky_top_part {
+    width: 100%;
+    z-index: 9999;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    z-index: 9999;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_prof_pic_container {
+    display: flex;
+    margin-right: 1.5rem;
+  }
+  .prof_pic_home {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+  .notifications_second_row {
+    display: none;
+  }
+}
+
+@media (min-width: 500px) and (min-height: 500px) and (max-width: 999px) {
+  .notifications_container {
+    margin-left: 15%;
+    width: 85%;
+  }
+  .bottom_bar_mobile_container {
+    display: none;
+  }
+  .sticky_top_part {
+    width: 85%;
+  }
+}
+
+@media (min-width: 1000px) and (min-height: 500px) and (max-width: 1281px) {
+  .notifications_container {
+    width: 55%;
+    margin-left: 15%;
+  }
+  .sticky_top_part {
+    width: 46.7%;
+  }
+}
+
+@media (max-width: 500px) and (min-height: 500px) {
+  .notifications_container {
+    width: 100%;
+    margin-left: 0rem;
+  }
+  .sticky_top_part {
+    width: 100%;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    z-index: 9999;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_prof_pic_container {
+    display: flex;
+    margin-right: 1.5rem;
+  }
+  .prof_pic_home {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+}

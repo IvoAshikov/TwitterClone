@@ -1,0 +1,127 @@
+.account_right_container {
+  width: 90%;
+  border-right: 1px solid #3b3b3d;
+  border-left: 1px solid #3b3b3d;
+  height: 100vh;
+}
+
+.account_right_header_container {
+  padding: 1rem 1rem;
+}
+
+.account_right_header {
+  font-size: 1.3rem;
+}
+
+.account_right_info_container {
+  padding: 0.75rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #71767b;
+}
+
+.account_right_single_setting_container {
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.account_right_single_setting_container2 {
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-bottom: 1px solid #3b3b3d;
+}
+.account_right_single_setting_container3 {
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 6rem;
+}
+
+.left_side_icon {
+  margin: 0rem 1.5rem;
+  color: #71767b;
+}
+
+.account_right_single_setting_info {
+  display: block;
+  font-size: 0.85rem;
+  color: #71767b;
+  font-weight: 400;
+}
+
+.account_right_single_setting_text {
+  font-weight: 400;
+}
+
+.account_right_single_setting_name_container {
+  margin-right: auto;
+}
+
+.caret_right_right {
+  color: #71767b;
+}
+
+.header_text_data_sharing {
+  padding: 0.75rem 1rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.account_link_privacy {
+  margin-right: auto;
+}
+
+.release_notes_container {
+  padding: 0rem 1rem;
+  margin: 0.3rem 0rem;
+}
+
+.release_notes_header {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+.release_notes_container2 {
+  padding: 0rem 1rem;
+  margin: 0.6rem 0rem;
+}
+
+.release_notes_header2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+/* PSEUDO */
+
+.account_right_single_setting_container:hover {
+  background-color: #16181c;
+}
+
+.account_right_single_setting_container2:hover {
+  background-color: #16181c;
+}
+.account_right_single_setting_container3:hover {
+  background-color: #16181c;
+}
+
+.account_link_privacy:visited,
+.account_link_privacy:active {
+  color: white;
+}
+
+/* END OF PSEUDO */
+
+@media (min-width: 1000px) and (max-width: 1403px) and (max-height: 499px) {
+  .account_right_container {
+    width: 100%;
+  }
+}
+
+@media (min-width: 1000px) and (min-height: 500px) and (max-width: 1281px) {
+  .account_right_container {
+    width: 100%;
+  }
+}

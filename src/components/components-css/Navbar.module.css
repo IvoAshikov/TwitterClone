@@ -1,0 +1,522 @@
+.navigationbar_container {
+  width: 23%;
+  height: 100vh;
+  position: fixed;
+  z-index: 99999;
+}
+
+.left_navbar {
+  margin: 0.1rem 0rem 0.5rem 3rem;
+}
+
+.house_icon,
+.hashtag_icon,
+.bell_icon,
+.messages_icon,
+.bookmarks_icon,
+.lists_icon,
+.profile_icon,
+.more_icon,
+.navbar_twitter_logo {
+  margin-left: 0.3rem;
+}
+
+.navbar_home,
+.navbar_explore,
+.navbar_notifications,
+.navbar_messages,
+.navbar_bookmarks,
+.navbar_lists,
+.navbar_profile,
+.navbar_more {
+  padding: 0.8rem 1rem 0.8rem 0.8rem;
+  border-radius: 25px;
+  display: flex;
+  cursor: pointer;
+  margin: 0.25rem 0rem 0.25rem 0rem;
+  font-weight: 400;
+  color: #fff;
+}
+
+.navbar_home {
+  width: 9.5rem;
+}
+.navbar_explore {
+  width: 10.5rem;
+}
+.navbar_notifications {
+  width: 12.5rem;
+}
+.navbar_messages {
+  width: 11rem;
+}
+.navbar_bookmarks {
+  width: 11.8rem;
+}
+.navbar_lists {
+  width: 8rem;
+}
+.navbar_profile {
+  width: 9.3rem;
+}
+.navbar_more {
+  width: 8.8rem;
+}
+
+svg {
+  font-size: 1.4rem;
+}
+
+.navbar_text {
+  margin-right: 1rem;
+  margin-left: 1.25rem;
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+}
+
+.hashtag_icon {
+  padding-right: 7px;
+}
+.bell_icon {
+  padding-right: 7px;
+}
+.messages_icon {
+  padding-right: 3px;
+}
+.bookmarks_icon {
+  padding-right: 10px;
+}
+.lists_icon {
+  padding-right: 3px;
+}
+.profile_icon {
+  padding-right: 7px;
+}
+.more_icon {
+  padding-right: 7px;
+}
+
+.navbar_twitter_logo {
+  font-size: 1.8rem;
+  padding: 0.7rem;
+  border-radius: 50%;
+  color: white;
+}
+
+.navbar_tweet_button {
+  margin-left: 3rem;
+}
+
+.navbar_tweet_btn {
+  background-color: #209cf4;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+  padding: 1rem 5.5rem 1rem 5.5rem;
+  border-radius: 25px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.navbar_acc_pic {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.navbar_account_info {
+  display: flex;
+  align-items: center;
+  margin: 1.8rem 2rem 0rem 3rem;
+  border-radius: 30px;
+  width: 75%;
+  padding: 0.6rem 1rem 0.6rem 0.8rem;
+  cursor: pointer;
+}
+
+.navbar_account_more {
+  padding-left: 4rem;
+  font-size: 1.2rem;
+}
+
+.navbar_account_name_tag {
+  padding-left: 0.6rem;
+}
+
+.navbar_account_tag {
+  color: #71767b;
+  font-weight: 400;
+  letter-spacing: -0.3px;
+}
+
+.navbar_account_name {
+  font-weight: 600;
+  letter-spacing: -0.2px;
+}
+
+.active {
+  font-weight: 700;
+}
+
+.dropdown_nav_acc_container {
+  position: absolute;
+  background-color: #000;
+  top: 26rem;
+  left: 2rem;
+  box-shadow: rgb(255 255 255 / 20%) 0px 0px 15px,
+    rgb(255 255 255 / 15%) 0px 0px 3px 1px;
+  border-radius: 15px;
+  padding: 0.75rem 0rem;
+  width: 300px;
+}
+
+.one_option_container {
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.one_option_container_border {
+  border-top: 1px solid #3b3b3d;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.more_dropdown_container {
+  position: absolute;
+  background-color: #000;
+  width: 318px;
+  box-shadow: rgb(255 255 255 / 20%) 0px 0px 15px,
+    rgb(255 255 255 / 15%) 0px 0px 3px 1px;
+  border-radius: 5px;
+  top: 10rem;
+  left: 3rem;
+}
+
+.more_single_option_container {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.more_topics_icon {
+  margin-right: 2rem;
+}
+
+.more_person_icon {
+  font-size: 1.3rem;
+  margin-right: 1.7rem;
+}
+
+.more_topics_text,
+.more_person_text2 {
+  font-size: 1.3rem;
+}
+
+.more_dropdown_container_big {
+  border-bottom: 1px solid #3b3b3d;
+}
+
+.more_single_option_small_container {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.more_right {
+  margin-left: auto;
+}
+
+.cr_studio_single_option_container {
+  padding: 0.75rem;
+  cursor: pointer;
+}
+
+.creater_studio_text {
+  font-weight: 400;
+  margin-left: 1rem;
+}
+
+.pr_tools_single_option_container {
+  padding: 0.75rem;
+  cursor: pointer;
+}
+
+.professional_tools_text {
+  font-weight: 400;
+  margin-left: 1rem;
+}
+
+.sas_single_option_container {
+  padding: 0.75rem;
+  cursor: pointer;
+}
+
+.settings_support_text {
+  font-weight: 400;
+  margin-left: 1rem;
+}
+
+.animation_start {
+  transform: rotate(-180deg);
+  transition: transform 150ms ease;
+  color: #209cf4;
+}
+
+.animation_end {
+  transform: rotate(0deg);
+  transition: transform 150ms ease;
+}
+
+/* PSEUDO */
+
+.navbar_home:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_explore:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_notifications:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_messages:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_bookmarks:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_lists:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_profile:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_more:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.navbar_twitter_logo:hover {
+  background-color: #08141c;
+  transition: background-color 0.3s;
+}
+
+.navbar_account_info:hover {
+  background-color: #1c1c1c;
+  transition: background-color 0.3s;
+}
+
+.sas_single_option_container:hover {
+  background-color: #16181c;
+}
+
+.more_dpd_link:visited,
+.more_dpd_link:active {
+  color: white;
+}
+
+.pr_tools_single_option_container:hover {
+  background-color: #16181c;
+}
+
+.cr_studio_single_option_container:hover {
+  background-color: #16181c;
+}
+
+.more_single_option_small_container:hover {
+  background-color: #16181c;
+}
+
+.more_single_option_container:hover {
+  background-color: #16181c;
+}
+
+.one_option_container:hover,
+.one_option_container_border:hover {
+  background-color: #16181c;
+}
+
+/* END OF PSEUDO */
+
+@media (min-width: 500px) and (min-height: 500px) and (max-width: 999px) {
+  .navigationbar_container {
+    width: 15%;
+  }
+  .left_navbar {
+    margin: 0;
+  }
+  .navbar_text {
+    display: none;
+  }
+  .navbar_home,
+  .navbar_explore,
+  .navbar_notifications,
+  .navbar_messages,
+  .navbar_bookmarks,
+  .navbar_lists,
+  .navbar_profile,
+  .navbar_more {
+    display: flex;
+    cursor: pointer;
+    font-weight: 400;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0.2rem 0.7rem 0.5rem 0.5rem;
+  }
+  .link_navbar {
+    width: 50px;
+    display: block;
+  }
+  .hashtag_icon,
+  .bell_icon,
+  .messages_icon,
+  .bookmarks_icon,
+  .lists_icon,
+  .profile_icon,
+  .more_icon {
+    padding-right: 0rem;
+  }
+  .navbar_tweet_btn {
+    display: none;
+  }
+  .navbar_tweet_button {
+    margin-left: 0;
+  }
+  .navbar_account_name_tag {
+    display: none;
+  }
+  .navbar_account_more {
+    display: none;
+  }
+  .navbar_account_info {
+    margin: 0rem 0.6rem 0rem 0.6rem;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .helper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  .navbar_account_pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .dropdown_nav_acc_container {
+    top: 20rem;
+    left: 0rem;
+    z-index: 9999;
+  }
+  .more_dropdown_container {
+    z-index: 9999;
+    top: 10rem;
+    left: 0;
+  }
+}
+
+@media (min-width: 1000px) and (min-height: 500px) and (max-width: 1281px) {
+  .navigationbar_container {
+    width: 15%;
+  }
+  .left_navbar {
+    margin: 0;
+  }
+  .navbar_text {
+    display: none;
+  }
+  .navbar_home,
+  .navbar_explore,
+  .navbar_notifications,
+  .navbar_messages,
+  .navbar_bookmarks,
+  .navbar_lists,
+  .navbar_profile,
+  .navbar_more {
+    display: flex;
+    cursor: pointer;
+    font-weight: 400;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0.2rem 0.7rem 0.5rem 0.5rem;
+  }
+  .link_navbar {
+    width: 50px;
+    display: block;
+  }
+  .hashtag_icon,
+  .bell_icon,
+  .messages_icon,
+  .bookmarks_icon,
+  .lists_icon,
+  .profile_icon,
+  .more_icon {
+    padding-right: 0rem;
+  }
+  .navbar_tweet_btn {
+    display: none;
+  }
+  .navbar_tweet_button {
+    margin-left: 0;
+  }
+  .navbar_account_name_tag {
+    display: none;
+  }
+  .navbar_account_more {
+    display: none;
+  }
+  .navbar_account_info {
+    margin: 0rem 0.6rem 0rem 0.6rem;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .helper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  .navbar_account_pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .dropdown_nav_acc_container {
+    top: 20rem;
+    left: 0rem;
+    z-index: 9999;
+  }
+  .more_dropdown_container {
+    z-index: 9999;
+    top: 2rem;
+    left: 0;
+  }
+}

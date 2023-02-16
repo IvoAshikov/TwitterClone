@@ -1,0 +1,272 @@
+.create_new_list_container {
+  position: absolute;
+  background-color: #000;
+  width: 35rem;
+  top: 2rem;
+  left: 20rem;
+  border-radius: 10px;
+  cursor: default;
+  box-shadow: rgb(255 255 255 / 20%) 0px 0px 15px,
+    rgb(255 255 255 / 15%) 0px 0px 3px 1px;
+}
+
+.cnl_navigation_container {
+  display: flex;
+  align-items: center;
+  padding: 0rem 0.2rem;
+  margin-top: 0.4rem;
+}
+
+.close_icon_container {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close_dropdown_icon {
+  font-size: 1.6rem;
+}
+
+.cnl_header_container {
+  margin-left: 1rem;
+  width: 80%;
+  font-weight: 700;
+}
+
+.cnl_next_btn_active {
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cnl_next_btn {
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  font-weight: 600;
+  background-color: #6e7071;
+}
+
+.cnl_insert_picture_container {
+  margin: 5rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cnl_insert_icon_container {
+  width: 42px;
+  height: 42px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #080a0c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.camera_icon {
+  font-size: 1.5rem;
+}
+
+.cnl_name_input_container {
+  padding: 0.75rem 1rem;
+}
+
+.cnl_input_helper {
+  border: 1px solid #3b3b3d;
+  height: 3rem;
+  position: relative;
+  border-radius: 4px;
+  padding: 0rem 0.5rem;
+}
+
+.hidden_name_text_animation {
+  position: absolute;
+  font-weight: 400;
+  transition: -webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    font-size 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    padding-top 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  color: #1677b8;
+  font-size: 0.8rem;
+}
+
+.hidden_name_text {
+  position: absolute;
+  top: 0.5rem;
+  z-index: 2;
+  color: #71767b;
+  font-weight: 400;
+}
+
+.hidden_char_limit {
+  position: absolute;
+  top: 0;
+  right: 0.5rem;
+  color: #71767b;
+  font-weight: 400;
+  font-size: 0.8rem;
+}
+
+.cnl_name_input {
+  width: 97%;
+  outline: none;
+  border: none;
+  background-color: #000;
+  position: absolute;
+  bottom: 0.5rem;
+  color: white;
+  height: 1.2rem;
+}
+
+.cnl_description_input_container {
+  padding: 0.75rem 1rem;
+}
+
+.cnl_description_helper {
+  border: 1px solid #3b3b3d;
+  height: 3rem;
+  position: relative;
+  border-radius: 4px;
+  padding: 0rem 0.5rem;
+}
+
+.hidden_name_description_animation {
+  position: absolute;
+  font-weight: 400;
+  transition: -webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    font-size 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s,
+    padding-top 150ms cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  color: #1677b8;
+  font-size: 0.8rem;
+}
+
+.hidden_name_description {
+  position: absolute;
+  top: 0.5rem;
+  z-index: 2;
+  color: #71767b;
+  font-weight: 400;
+}
+
+.hidden_char_limit_description {
+  position: absolute;
+  top: 0;
+  right: 0.5rem;
+  color: #71767b;
+  font-weight: 400;
+  font-size: 0.8rem;
+}
+
+.cnl_description_input {
+  width: 97%;
+  outline: none;
+  border: none;
+  background-color: #000;
+  position: absolute;
+  bottom: 0.5rem;
+  color: white;
+  height: 1.2rem;
+}
+
+.cnl_private_container {
+  display: flex;
+  padding: 1rem;
+}
+
+.cnl_private_text {
+  width: 100%;
+}
+
+.cnl_option_text {
+  font-weight: 400;
+}
+
+.cnl_info_text {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #71767b;
+}
+
+.cnl_private_checkbox_container {
+  height: 36px;
+  width: 36px;
+  padding: 0.5rem;
+}
+
+.cnl_checkbox {
+  outline: 2px solid #3b3b3d;
+  border: none;
+  height: 20px;
+  width: 20px;
+}
+
+/* PSEUDO */
+
+.close_icon_container:hover {
+  background-color: #191919;
+}
+
+.close_dropdown_icon::before {
+  width: 26px;
+  height: 30px;
+}
+
+.cnl_insert_icon_container:hover {
+  background-color: #15181b;
+}
+
+.cnl_input_helper:active,
+.cnl_input_helper:focus-within {
+  border: 1px solid #1677b8;
+  height: 3rem;
+  position: relative;
+  border-radius: 4px;
+  padding: 0rem 0.5rem;
+}
+
+.cnl_description_input:focus {
+  outline: none;
+}
+
+.cnl_description_helper:active,
+.cnl_description_helper:focus-within {
+  border: 1px solid #1677b8;
+  height: 3rem;
+  position: relative;
+  border-radius: 4px;
+  padding: 0rem 0.5rem;
+}
+
+.cnl_checkbox:focus {
+  outline: none;
+}
+
+.cnl_name_input:focus {
+  outline: none;
+}
+
+/* PSEUDO */
+
+/* MEDIAS */
+
+@media (max-width: 999px) {
+  .create_new_list_container {
+    width: 100%;
+    margin-left: 0;
+    left: 0;
+    top: 0;
+  }
+}

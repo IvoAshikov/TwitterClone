@@ -1,0 +1,140 @@
+.add_to_list_container {
+  background-color: #000;
+  box-shadow: rgb(255 255 255 / 20%) 0px 0px 15px,
+    rgb(255 255 255 / 15%) 0px 0px 3px 1px;
+  position: absolute;
+  left: 20rem;
+  top: 2rem;
+  cursor: default;
+  width: 35rem;
+  border-radius: 10px;
+}
+
+.atl_controls_menu_container {
+  display: flex;
+  padding: 0rem 0.4rem;
+  align-items: center;
+  margin-top: 0.3rem;
+}
+
+.close_atl_container {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.atl_header_container {
+  margin-left: 1.5rem;
+  width: 75%;
+}
+
+.atl_header {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.atl_done_btn {
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.atl_bars_container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-evenly;
+  border-bottom: 1px solid #3b3b3d;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+.atl_members_container {
+  padding: 0rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 3.33rem;
+  position: relative;
+}
+
+.underline3 {
+  display: inline-flex;
+  position: absolute;
+  align-self: center;
+  height: 4px;
+  background-color: rgb(29, 155, 240);
+  min-width: 6rem;
+  border-radius: 9999px;
+  bottom: 0;
+}
+
+.atl_suggested_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 3.33rem;
+  position: relative;
+}
+
+.atl_image_container {
+  width: 100%;
+  padding: 0rem 2rem;
+  margin: 2rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.atl_members_header_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.atl_members_header {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.atl_members_info_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.atl_members_info {
+  font-size: 0.9rem;
+  color: #71767b;
+  font-weight: 400;
+}
+
+.atl_members_text_container {
+  margin-bottom: 2rem;
+}
+
+.new_member_suggestion_container_parent {
+  margin-bottom: 2rem;
+}
+
+.atl_suggested_container:hover {
+  background-color: #181818;
+}
+
+.atl_members_container:hover {
+  background-color: #181818;
+}
+
+.close_atl_container:hover {
+  background-color: #191919;
+}

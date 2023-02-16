@@ -1,0 +1,644 @@
+.messages_page_container {
+  border-right: 1px solid #3b3b3d;
+  margin-left: 19.7rem;
+  width: 29%;
+  height: 100vh;
+  border-left: 1px solid #3b3b3d;
+}
+
+.messages_nav_menu_container {
+  display: flex;
+  align-items: center;
+  padding: 0rem 0.7rem;
+  margin-top: 0.3rem;
+}
+
+.messages_header_container {
+  margin-right: auto;
+}
+
+.mobile_prof_pic_container {
+  display: none;
+}
+
+.messages_header_text {
+  font-size: 1.2rem;
+}
+
+.messages_settings_container,
+.create_new_message_container {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.messages_main_content_container {
+  padding: 0rem 2rem;
+  margin: 2rem 0rem;
+}
+
+.messages_welcome_text {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.messages_welcome_info_box {
+  margin-bottom: 1.75rem;
+}
+
+.messages_welcome_info {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #63686c;
+}
+
+.write_message_btn {
+  padding: 1rem 2rem;
+  background-color: #1a8cd8;
+  color: white;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.messages_right_part_container {
+  width: 44%;
+  border-right: 1px solid #3b3b3d;
+}
+
+.messages_big_container {
+  max-width: 600px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.messages_select_message_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.select_messages_header_text {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.messages_select_info_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.messages_select_info {
+  width: 50%;
+  font-weight: 400;
+  color: #63686c;
+}
+
+.btn_helper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.new_message_btn {
+  padding: 1rem 2rem;
+  border-radius: 30px;
+  background-color: #1a8cd8;
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.direct_messages_nav_container {
+  display: flex;
+  padding: 0rem 1rem;
+  align-items: center;
+  margin-top: 0.3rem;
+}
+
+.direct_messages_back_container {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 2rem;
+  cursor: pointer;
+}
+
+.direct_messages_header {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.direct_messages_small_info_container {
+  margin-top: 1.1rem;
+}
+
+.direct_messages_small_info {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #63686c;
+  padding: 0.75rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.direct_messages_single_setting_container {
+  padding: 0.75rem 1rem;
+}
+
+.direct_messages_setting_header_container {
+  display: flex;
+  align-items: center;
+}
+
+.single_setting_header {
+  font-weight: 400;
+  font-size: 0.95rem;
+}
+
+.setting_checkbox_container {
+  margin-left: auto;
+}
+
+.dmss_info {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #63686c;
+}
+
+.bottom_bar_mobile_container {
+  display: none;
+}
+
+.bottom_bar_helper {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile_home_icon_container,
+.mobile_search_icon_container,
+.mobile_notifications_icon_container,
+.mobile_messages_icon_container {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tweets_container {
+  margin-bottom: 5rem;
+}
+
+.create_new_tweet_container {
+  display: none;
+}
+
+.mobile_sidebar_container {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  background-color: #000000;
+  width: 47%;
+  box-shadow: rgb(255 255 255 / 20%) 0px 0px 15px,
+    rgb(255 255 255 / 15%) 0px 0px 3px 1px;
+  z-index: 9999;
+  overflow-y: scroll;
+}
+
+.mobile_info_close_container {
+  display: flex;
+  align-items: center;
+  padding: 0rem 1rem;
+  margin: 0.7rem 0rem;
+}
+
+.close_sidebar_icon_container {
+  margin-left: auto;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mobile_info {
+  font-size: 1.2rem;
+}
+
+.mobile_sidebar_pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.mobile_profile_pic_add_container {
+  padding: 1rem 1rem 0rem 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.mobile_add_icon_container {
+  margin-left: auto;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid #3b3b3d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mobile_account_info_container {
+  margin-top: 0.3rem;
+  padding: 0rem 1rem;
+}
+
+.mobile_account_username {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #7f7e7e;
+}
+
+.followers_container {
+  margin-top: 0.5rem;
+  padding: 0rem 1rem 1rem 1rem;
+}
+
+.following,
+.followers {
+  font-size: 0.9rem;
+}
+
+.followers {
+  margin-left: 1rem;
+}
+
+.blacked_out {
+  color: #7f7e7e;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+.mobile_single_option_container {
+  padding: 1rem;
+}
+
+.mobile_option_text {
+  margin-left: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.mobile_option_container {
+  border-bottom: 1px solid #3b3b3d;
+}
+
+.open_sidebar {
+  transform: translateX(0%);
+  transition: transform 0.5s ease;
+}
+
+.close_sidebar {
+  transform: translateX(-100%);
+  transition: transform 0.5s ease;
+}
+
+.mobile_prof_pic_container {
+  display: none;
+}
+
+.messages_header_container {
+  display: flex;
+}
+
+.mobile_create_new_message {
+  display: none;
+}
+
+.mobile_create_text {
+  display: none;
+}
+
+/* PSEUDO */
+
+.mobile_single_option_container:hover {
+  background-color: #16181c;
+}
+
+.following:hover,
+.followers:hover {
+  text-decoration: underline;
+}
+
+.mobile_account_name:hover {
+  text-decoration: underline;
+}
+
+.close_sidebar_icon_container:hover {
+  background-color: #181819;
+}
+
+.mobile_home_icon_container:hover,
+.mobile_search_icon_container:hover,
+.mobile_notifications_icon_container:hover,
+.mobile_messages_icon_container:hover {
+  background-color: #16181c;
+}
+
+.learn_more_messages_link:visited {
+  color: #1a8cd8;
+}
+
+.direct_messages_back_container:hover {
+  background-color: #191919;
+}
+
+.messages_settings_container:hover,
+.create_new_message_container:hover {
+  background-color: #191919;
+}
+
+/* END OF PSEUDO */
+
+@media (max-width: 800px) and (max-height: 499px) {
+  .messages_right_part_container {
+    display: none;
+    border-left: none;
+  }
+  .messages_page_container {
+    width: 100%;
+    margin-left: 0rem;
+    border-left: none;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_prof_pic_container {
+    display: flex;
+    margin-right: 1.5rem;
+  }
+  .prof_pic_home {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+  .mobile_create_new_message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 5rem;
+    right: 1rem;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background-color: #1da1f2;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 999px) and (max-height: 499px) {
+  .messages_right_part_container {
+    display: none;
+    border-left: none;
+  }
+  .messages_page_container {
+    width: 100%;
+    margin-left: 0rem;
+    border-left: none;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_prof_pic_container {
+    display: flex;
+    margin-right: 1.5rem;
+  }
+  .prof_pic_home {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+  .mobile_create_new_message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 5rem;
+    right: 1rem;
+    padding: 1rem 2rem;
+    border-radius: 9999px;
+    background-color: #1da1f2;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_create_text {
+    display: inline;
+    margin-left: 0.5rem;
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 1000px) and (max-width: 1403px) and (max-height: 499px) {
+  .messages_right_part_container {
+    border-left: none;
+  }
+  .messages_page_container {
+    width: 70%;
+    margin-left: 0rem;
+    border-left: none;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    z-index: 9999;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_prof_pic_container {
+    display: flex;
+    margin-right: 1.5rem;
+  }
+  .prof_pic_home {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+  .mobile_create_new_message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 5rem;
+    right: 1rem;
+    padding: 1rem 2rem;
+    border-radius: 9999px;
+    background-color: #1da1f2;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_create_text {
+    display: inline;
+    margin-left: 0.5rem;
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 500px) and (min-height: 500px) and (max-width: 999px) {
+  .messages_page_container {
+    width: 85%;
+    margin-left: 15%;
+    border-left: 1px solid #3b3b3d;
+  }
+  .bottom_bar_mobile_container {
+    display: none;
+  }
+}
+
+@media (min-width: 1000px) and (min-height: 500px) and (max-width: 1281px) {
+  .messages_page_container {
+    width: 40%;
+    margin-left: 15%;
+  }
+}
+
+@media (max-width: 500px) and (min-height: 500px) {
+  .messages_right_part_container {
+    display: none;
+    border-left: none;
+  }
+  .messages_page_container {
+    width: 100%;
+    margin-left: 0rem;
+    border-left: none;
+  }
+  .bottom_bar_mobile_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem;
+    border-top: 1px solid #3b3b3d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+  }
+  .create_new_tweet_container {
+    display: flex;
+    position: fixed;
+    bottom: 4.5rem;
+    right: 1rem;
+    background-color: rgb(29, 155, 240);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+  .mobile_prof_pic_container {
+    display: flex;
+    margin-right: 1.5rem;
+  }
+  .prof_pic_home {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+  .mobile_create_new_message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 5rem;
+    right: 1rem;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background-color: #1da1f2;
+    box-shadow: rgb(217 217 217 / 20%) 0px 0px 5px,
+      rgb(217 217 217 / 25%) 0px 1px 4px 1px;
+  }
+}
