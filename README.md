@@ -4,4 +4,4 @@ This Twitter Clone was made with React and makes use of the Twitter API to acces
 
 ## Preview
 
-![](https://github.com/IvoAshikov/twitter-clone/blob/master/TwitterCloneGIF.gif)
+![](https://github.com/IvoAshikov/TwitterClone/blob/master/TwitterCloneGIF.gif)
